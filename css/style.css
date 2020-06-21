@@ -47,7 +47,6 @@ body {
   height: 81px;
   padding-left: 20px;
   padding-right: 20px;
-  outline: 2px solid tomato;
 }
 
 .main-nav {
@@ -61,7 +60,6 @@ body {
 }
 
 .site-nav .item {
-  outline: 1px solid red;
 }
 
 .site-nav .item:not(:last-child) {
@@ -162,8 +160,6 @@ body {
   padding-left: 20px;
   padding-right: 20px;
   align-items: baseline;
-
-  outline: 2px solid tomato;
 }
 
 .footer-address {
@@ -332,7 +328,6 @@ body {
   font-size: 44px;
   letter-spacing: 0.06em;
   text-transform: uppercase;
-  outline: 1px solid red;
 }
 
 /* Преимущества */
@@ -345,7 +340,6 @@ body {
   width: 1170px;
   height: 271px;
   padding-left: 0px;
-  outline: 2px solid tomato;
 
   list-style: none;
   text-decoration: none;
@@ -396,7 +390,6 @@ body {
   width: 1170px;
   height: 386px;
   padding-left: 0px;
-  outline: 2px solid tomato;
 }
 
 .section-title {
@@ -455,15 +448,15 @@ body {
 
 /* Наша команда */
 
-.team {
+.features {
   display: flex;
   margin-left: auto;
   margin-right: auto;
   margin-top: 94px;
   width: 1170px;
-  height: 702px;
+  height: 271px;
   padding-left: 0px;
-  outline: 2px solid tomato;
+}
 
 .team-list {
   color: var(--title-text-color);
