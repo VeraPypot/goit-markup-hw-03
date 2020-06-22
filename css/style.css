@@ -687,30 +687,36 @@ body {
   flex-wrap: wrap;
   padding-left: 0;
   list-style: none;
+  text-decoration: none;
 }
 
 .features-portfolio .title-portfolio {
+  display: flex;
   margin-top: 0;
   margin-bottom: 0;
-  display: flex;
+  margin-left: -350px;
   flex-wrap: wrap;
-  padding-left: 0;
+  width: 322px;
   list-style: none;
   font-weight: 700;
   font-size: 18px;
-  line-height: 2;
+  line-height: 36px;
   letter-spacing: 0.06em;
 
+  text-decoration: none;
   text-align: start;
   margin-top: 0;
   margin-bottom: 4px;
+
   color: var(--primary-text-color);
 }
 
 .features-portfolio .subtitle-portfolio {
   margin-top: 0;
   margin-bottom: 0;
-
+  margin-left: -350px;
+  flex-wrap: wrap;
+  width: 322px;
   font-size: 16px;
   line-height: 1.87;
   text-align: start;
@@ -740,6 +746,7 @@ body {
 
 .portfolio-link {
   display: flex;
+  list-style: none;
   text-decoration: none;
 }
 
@@ -751,11 +758,6 @@ body {
 
 .container-subtitle {
   margin-top: 314px;
-  padding: 20px 24px;
-}
-
-.porfolio-img {
-  display: flex;
 }
 
 .subtitle-portfolio {
