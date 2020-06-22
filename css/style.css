@@ -678,8 +678,6 @@ body {
   align-items: center;
   list-style: none;
   text-decoration: none;
-
-  outline: 2px solid tomato;
 }
 
 .features-portfolio {
@@ -707,7 +705,6 @@ body {
   margin-top: 0;
   margin-bottom: 4px;
   color: var(--primary-text-color);
-  outline: 2px solid tomato;
 }
 
 .features-portfolio .subtitle-portfolio {
@@ -731,8 +728,6 @@ body {
   height: 404px;
   justify-content: center;
   border: 1px solid #eeeeee;
-
-  outline: 2px solid teal;
 }
 
 .features-list:nth-child(3n) {
