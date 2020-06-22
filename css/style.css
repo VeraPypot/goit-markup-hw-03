@@ -652,6 +652,7 @@ body {
   letter-spacing: 0.03em;
   background-color: var(--secondary-white-color);
 }
+
 .porfolio-link:hover,
 .porfolio-link:focus {
   color: var(--primary-white-color);
