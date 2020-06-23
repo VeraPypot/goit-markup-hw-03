@@ -165,12 +165,17 @@ body {
 }
 
 .footer-address {
+  display: flex;
+  flex-direction: column;
+  width: 231px;
   padding-top: 45px;
+  padding-bottom: 28px;
 }
 
 .address-title {
   font-style: normal;
   font-weight: normal;
+  width: 231px;
   font-size: 14px;
   line-height: 24px;
   letter-spacing: 0.03em;
