@@ -352,7 +352,6 @@ body {
   margin-top: 0;
   margin-left: auto;
   margin-right: auto;
-  width: 1600px;
   height: 600px;
   text-align: center;
 }
@@ -362,7 +361,6 @@ body {
   margin-top: 0;
   margin-left: auto;
   margin-right: auto;
-  width: 1600px;
   height: 600px;
   background-image: linear-gradient(
       to right,
